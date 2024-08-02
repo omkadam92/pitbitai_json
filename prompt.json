@@ -1,0 +1,115 @@
+{
+    "name": "Om Vinayak Kadam",
+    "contact": {
+      "email": "omkadam2992003@gmail.com",
+      "phone": "+91 8149429903",
+      "linkedin": "https://www.linkedin.com/in/om-kadam-31328822a/",
+      "github": "https://github.com/omkadam92"
+    },
+    "education": [
+      {
+        "year": "2021 - 2025",
+        "degree": "B.Tech (AIDS)",
+        "institute": "Vishwakarma Institute of Information Technology",
+        "cgpa": "8.6"
+      },
+      {
+        "year": "2021",
+        "degree": "12th HSC",
+        "institute": "L.V.H Junior College",
+        "percentage": "98.33%"
+      },
+      {
+        "year": "2019",
+        "degree": "10th ICSE",
+        "institute": "Horizon Academy School",
+        "percentage": "90.8%"
+      }
+    ],
+    "skills": {
+      "programming_languages": ["Python", "OOPS", "SQL", "HTML", "CSS", "Javascript"],
+      "software": ["Azure", "Power BI", "Tableau", "Github", "VS Code", "MySQL"],
+      "libraries": ["Tensor Flow", "Sckit-Learn", "Open-CV"],
+      "coursework": [
+        "Analysis of Data Structures and Algorithms",
+        "Business Intelligence",
+        "Machine Learning",
+        "Data Visualization",
+        "Database Management System",
+        "Natural Language Processing"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Communication",
+        "Team Management",
+        "Multitasking",
+        "Public Speaking",
+        "Presentation Skills"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Neuro Nudge: AI Precision Cursor",
+        "technologies": ["Python", "opencv (cv2)", "mediapie"],
+        "description": "Utilizes hand gestures for PC control, overcomes issues of physical mice: Eliminates need for special hardware, adapts to diverse environments, and avoids lifespan limitations of wired and wireless variants.",
+        "link": "https://github.com/omkadam92/NeuroNudge"
+      },
+      {
+        "name": "Auto Image Captioning",
+        "technologies": ["Python", "numpy", "matplotlib", "keras", "tensorflow", "nltk", "pickle"],
+        "description": "The objective of the project is to predict the captions for the input image. The dataset consists of 8k images and 5 captions for each image. CNN is used for image and LSTM is used for text. BLEU Score is used as a metric to evaluate the performance of the trained model.",
+        "link": "https://github.com/omkadam92/Image_Caption_Generator"
+      },
+      {
+        "name": "Student Attendance System Using Face Detection",
+        "technologies": ["Python", "tkinter", "numpy", "pandas", "PIL", "opencv"],
+        "description": "Attendance System Created using haar cascade designed by OpenCV to detect the frontal face and then store the faces of students after detection. Then using facial recognition to mark attendance of those students whose face have been identified in a excel sheet.",
+        "link": "https://github.com/omkadam92/face_attendance_system"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Smart Agri-Advisor: Integrating Chatbot Technology with CNN-Based Crop Disease Classification for Enhanced Agricultural Decision-Making",
+        "authors": "Ratna Patil, Yogita Sinkar, Ashish Ruke, Harshvardhan Kulkarni, Om Kadam",
+        "journal": "International Journal of Engineering Trends and Technology",
+        "volume": "72",
+        "issue": "7",
+        "pages": "375-380",
+        "year": "2024",
+        "link": "https://ijettjournal.org/archive/ijett-v72i7p141"
+      }
+    ],
+    "courses_and_certifications": [
+      {
+        "name": "Machine Learning A-Z: AI, Python & R",
+        "provider": "Udemy"
+      },
+      {
+        "name": "Accenture North America Data Analytics and Visualization Job Simulation",
+        "provider": "Forage",
+        "date": "July 2024",
+        "link": "https://github.com/omkadam92/accenture-forage"
+      },
+      {
+        "name": "CCNAv7: Introduction to Networks",
+        "provider": "Cisco"
+      }
+    ],
+    "extra_curricular_activities_and_achievements": [
+      {
+        "role": "Membership Development Director",
+        "organization": "Rotaract Club of VIIT",
+        "year": "2023-24"
+      },
+      {
+        "role": "Joint-Publicity Head",
+        "organization": "CodeChef Chapter-VIIT",
+        "year": "2023-24"
+      }
+    ],
+    "profile_links": [
+      "https://www.linkedin.com/in/om-kadam92/details/certifications/",
+      "mailto:omkadam2992003@gmail.com"
+    ]
+  }
+  
